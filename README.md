@@ -3,6 +3,7 @@
 ## Index
 
 1. [Attacker Methodology](Attacker-Methodology.md)
+2. [Windows Endpoint Introduction](Windows-Endpoint-Introduction.md)
 
 .
 .
